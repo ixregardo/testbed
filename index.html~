@@ -1,0 +1,38 @@
+<html>
+<head> 
+<title>Diane's Testbed</title>
+<link rel="stylesheet" type="text/css" href="http://www.dianem.hostei.com/stylesheet.css">
+</head>
+<base target="_blank">
+<body><h1>Diane's Testbed</h1>
+<div id="leftside">
+<h2>Resources</h2>
+<ul>
+<li><a href="http://tnerual.eriogerg.free.fr/vimqrc.pdf">VIM Quick Reference</a></li>
+<li><a href="http://www.design215.com/toolbox/css_guide.php">CSS Quick Reference</a></li>
+<li><a href="http://www.colorpicker.com">Hex Color Picker</a></li>
+<li><a href="http://www.wufoo.com/docs/api/v3/">Wufoo API Documentation</a></li>
+<li><a href="http://farm6.static.flickr.com/5085/5730351194_69b599cc03_o.png">Wufoo CSS Documentation</a></li>
+<li></li>
+</ul>
+</div>
+<div id="rightside">
+<h2>Projects</h2>
+<ul>
+<li><a href="http://www.dianem.hostei.com/wf_api_test.php">Wufoo Form Summary Tool</a></li>
+<li>SurveyMonkey API Test</li>
+<li>Tumblr API Test</li>
+<li></li>
+</ul>
+</div>
+<div id="notes">
+<h2>Notes</h2>
+<ul>
+<li>SM: Polling widget</li>
+<li>SM: Mass delete</li>
+<li>CSS: Fix spoon tags (spoonie living)</li>
+<li>CSS: Fix nav bar (spoonie living)</li>
+<li></li>
+</ul>
+</div>
+</body></html>
